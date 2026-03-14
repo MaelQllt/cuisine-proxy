@@ -1,0 +1,6 @@
+{
+  "name": "cuizine-proxy",
+  "version": "1.0.0",
+  "description": "Proxy Anthropic API pour cuiZine",
+  "type": "module"
+}
